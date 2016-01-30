@@ -1,14 +1,12 @@
 <!--------------------------------------
-Gretar Ævarsson - s198586
-
-Webprogrammering - vår 2014 - Oblig 03
-Oppgave
+Gretar Ævarsson
+© 2016 gretar80@gmail.com
 ---------------------------------------->
 <!DOCTYPE html>
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>HiOA - vår2014 - Webprogrammering - Obligatorisk oppgave 2</title>
+        <title>VM Skiregistrering</title>
         <style>
             html,body {margin:0;padding:0;background-color:white;font:small/1.3 Arial, Helvetica, sans-serif;height:100%;min-width:700px}
             section {min-height:100%;position:relative;}
