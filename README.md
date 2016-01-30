@@ -10,7 +10,7 @@ Main functions include:
 
 <hr>
 The overview shows which viewers and contestants are registered for each event<br>
-![alt tag](https://raw.github.com/gretar80/VM_Skiregistrering/master/screenshots/01.png)
+![alt tag](https://raw.github.com/gretar80/VM_Skiregistering/master/screenshots/01.png)
 
 
 
